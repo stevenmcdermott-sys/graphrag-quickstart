@@ -1,0 +1,7 @@
+graphrag
+pandas
+pyarrow
+networkx
+matplotlib
+jupyterlab
+ipykernel

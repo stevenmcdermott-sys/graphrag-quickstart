@@ -1,0 +1,12 @@
+# Secrets
+.env
+*.env
+
+# GraphRAG project folder created by the notebook (input, output, cache, logs)
+christmas/
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.graphml
