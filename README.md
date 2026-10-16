@@ -4,7 +4,7 @@ A step-by-step Jupyter notebook for getting Microsoft's [GraphRAG](https://githu
 
 ## Quick start
 
-Requires **Python 3.10–3.12** and an **OpenAI API key**.
+Requires **Python 3.11–3.13** and an **OpenAI API key**.
 
 ```bash
 git clone <this repo>
